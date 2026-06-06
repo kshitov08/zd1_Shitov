@@ -1,0 +1,14 @@
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\bin\Debug\net8.0\zad1_Shitov.exe
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\bin\Debug\net8.0\zad1_Shitov.deps.json
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\bin\Debug\net8.0\zad1_Shitov.runtimeconfig.json
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\bin\Debug\net8.0\zad1_Shitov.dll
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\bin\Debug\net8.0\zad1_Shitov.pdb
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\obj\Debug\net8.0\zad1_Shitov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\obj\Debug\net8.0\zad1_Shitov.AssemblyInfoInputs.cache
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\obj\Debug\net8.0\zad1_Shitov.AssemblyInfo.cs
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\obj\Debug\net8.0\zad1_Shitov.csproj.CoreCompileInputs.cache
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\obj\Debug\net8.0\zad1_Shitov.dll
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\obj\Debug\net8.0\refint\zad1_Shitov.dll
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\obj\Debug\net8.0\zad1_Shitov.pdb
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\obj\Debug\net8.0\zad1_Shitov.genruntimeconfig.cache
+D:\Шитов ПР-21\zad1_Shitov\zad1_Shitov\obj\Debug\net8.0\ref\zad1_Shitov.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0438\u0442\u043E\u0432 \u041F\u0420-21\\zad1_Shitov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3145360C-5DD5-4B35-BF8F-E7EBCAB05B08}|zad1_Shitov\\zad1_Shitov.csproj|d:\\\u0448\u0438\u0442\u043E\u0432 \u043F\u0440-21\\zad1_shitov\\zad1_shitov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3145360C-5DD5-4B35-BF8F-E7EBCAB05B08}|zad1_Shitov\\zad1_Shitov.csproj|solutionrelative:zad1_shitov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3145360C-5DD5-4B35-BF8F-E7EBCAB05B08}|zad1_Shitov\\zad1_Shitov.csproj|d:\\\u0448\u0438\u0442\u043E\u0432 \u043F\u0440-21\\zad1_shitov\\zad1_shitov\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3145360C-5DD5-4B35-BF8F-E7EBCAB05B08}|zad1_Shitov\\zad1_Shitov.csproj|solutionrelative:zad1_shitov\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\\u0428\u0438\u0442\u043E\u0432 \u041F\u0420-21\\zad1_Shitov\\zad1_Shitov\\Cat.cs",
+              "RelativeDocumentMoniker": "zad1_Shitov\\Cat.cs",
+              "ToolTip": "D:\\\u0428\u0438\u0442\u043E\u0432 \u041F\u0420-21\\zad1_Shitov\\zad1_Shitov\\Cat.cs",
+              "RelativeToolTip": "zad1_Shitov\\Cat.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T04:34:22.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0438\u0442\u043E\u0432 \u041F\u0420-21\\zad1_Shitov\\zad1_Shitov\\Program.cs",
+              "RelativeDocumentMoniker": "zad1_Shitov\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0438\u0442\u043E\u0432 \u041F\u0420-21\\zad1_Shitov\\zad1_Shitov\\Program.cs",
+              "RelativeToolTip": "zad1_Shitov\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T04:33:32.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
