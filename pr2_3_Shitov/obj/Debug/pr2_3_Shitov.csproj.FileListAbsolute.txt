@@ -1,0 +1,15 @@
+D:\Shitov\pr2_3_Shitov\obj\Debug\pr2_3_Shitov.csproj.AssemblyReference.cache
+D:\Shitov\pr2_3_Shitov\obj\Debug\MainWindow.g.cs
+D:\Shitov\pr2_3_Shitov\obj\Debug\App.g.cs
+D:\Shitov\pr2_3_Shitov\obj\Debug\pr2_3_Shitov_MarkupCompile.cache
+D:\Shitov\pr2_3_Shitov\obj\Debug\pr2_3_Shitov_MarkupCompile.lref
+D:\Shitov\pr2_3_Shitov\bin\Debug\pr2_3_Shitov.exe.config
+D:\Shitov\pr2_3_Shitov\bin\Debug\pr2_3_Shitov.exe
+D:\Shitov\pr2_3_Shitov\bin\Debug\pr2_3_Shitov.pdb
+D:\Shitov\pr2_3_Shitov\obj\Debug\MainWindow.baml
+D:\Shitov\pr2_3_Shitov\obj\Debug\pr2_3_Shitov.g.resources
+D:\Shitov\pr2_3_Shitov\obj\Debug\pr2_3_Shitov.Properties.Resources.resources
+D:\Shitov\pr2_3_Shitov\obj\Debug\pr2_3_Shitov.csproj.GenerateResource.cache
+D:\Shitov\pr2_3_Shitov\obj\Debug\pr2_3_Shitov.csproj.CoreCompileInputs.cache
+D:\Shitov\pr2_3_Shitov\obj\Debug\pr2_3_Shitov.exe
+D:\Shitov\pr2_3_Shitov\obj\Debug\pr2_3_Shitov.pdb
